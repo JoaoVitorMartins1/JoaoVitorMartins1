@@ -1,7 +1,7 @@
 ## Hi, I'm  João Vitor Martins!
 
-- 🔭  I'm currently working on javascript web projects
-- 🌱 I’m currently learning NodeJS,Express, TypeScript
+- 🔭  I'm currently working on django web projects
+- 🌱 I’m currently learning Python, Django. 
 - 📫 How to reach me: joaovdias.pb@gmail.com
 
 <div> 
