@@ -13,6 +13,7 @@
 ## Education
 
 - 🎓  Higher education in systems analysis and development from the Northern University of Paraná -UNOPAR (2025)
+- 🎓 English course at Wizard Language School (in progress)
 
 ## Skills
 
